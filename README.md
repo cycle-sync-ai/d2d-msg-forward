@@ -1,3 +1,8 @@
+👻 Please follow me for new updates [Dev.to](https://dev.to/cyclesync-ai) | [Github](https://github.com/bigdata5911) | [Github Org](https://github.com/cycle-sync-ai) <br />
+😉 Please join our discord server [Discord](https://discord.gg/TawJX4ue) <br />
+💫 Please have an interesting relationship with me [Telegram](https://t.me/bigdata5911) | [Email](mailto:worker.opentext@gmail.com) <br />
+
+
 # Discord to Discord DM Forwarder
 
 This is a simple script that forwards messages from a Discord channel to a Discord DM.
@@ -51,10 +56,3 @@ MONITOR_USER_TOKEN=
 ```
 python main.py
 ```
-
-## Version 1.0 12/11/2024
-
-## Contact
-
-- [Telegram](https://t.me/crypto_0614)
-- [Email](mailto:pleasebugmenot.dev@gmail.com)
